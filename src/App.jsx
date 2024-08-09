@@ -33,7 +33,8 @@ function App() {
   //   fetchQuestions();
   // }, []);
   
-   console.log(allQuestion)
+  console.log(allQuestion)
+  console.log("hiiiiii")
 
   function toggle(){
     setQPage(per => !per)
