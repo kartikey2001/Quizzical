@@ -1,0 +1,43 @@
+
+{"response_code":0,
+    "results":
+        [
+        {
+            "type":"multiple",
+            "difficulty":"hard",
+            "category":"Entertainment: Video Games",
+            "question":"What device allows Tracer to manipulate her own time in the game &quot;Overwatch&quot;?",
+            "correct_answer":"Chronal Accelerator",
+            "incorrect_answers":["B.L.I.N.K","Spacial Displacement Manipulator","TMD (Time Manipulation Device)"]
+        },
+            
+        {
+            "type":"multiple",
+            "difficulty":"easy",
+            "category":"General Knowledge",
+            "question":"Who is depicted on the US hundred dollar bill?","correct_answer":"Benjamin Franklin",
+            "incorrect_answers":["George Washington","Abraham Lincoln","Thomas Jefferson"]
+        },
+        {
+            "type":"multiple",
+            "difficulty":"hard",
+            "category":"Entertainment: Video Games",
+            "question":"In 2004, which person(s) created &quot;Roblox&quot;?",
+            "correct_answer":"David Baszucki and Erik Cassel",
+            "incorrect_answers":["Erik Cassel","Jonas Alto and Sarah Smith","James Kolein"]
+        },
+        {
+            "type":"multiple",
+            "difficulty":"easy",
+            "category":"Entertainment: Video Games",
+            "question":"What is the maximum HP in Terraria?",
+            "correct_answer":"500","incorrect_answers":["400","1000","100"]
+        },
+        {
+            "type":"multiple",
+            "difficulty":"easy",
+            "category":"Sports",
+            "question":"Who won the UEFA Champions League in 2016?",
+            "correct_answer":"Real Madrid C.F.",
+            "incorrect_answers":["FC Bayern Munich","Atletico Madrid","Manchester City F.C."]
+        }]}

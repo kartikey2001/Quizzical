@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.home-page{
+  color: #293264;
+}
+h1{
+  font-size: 2rem;
+  margin: 20px 0;
+}
+
+p{
+  font-size: 18px; /* Moderate text size for readability */
+  margin-bottom: 30px;
+  margin-top: -10px;
+}
+.start-btn{
+  width: 200px;
+  height: 60px;
+  background-color:#4D5B9E ;
+  color: #F5F7FB ;
+  font-size: 1rem;
+}
